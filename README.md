@@ -1,4 +1,4 @@
-# ![Secure_X Logo](https://example.com/your_logo.png) Secure_X
+# ![Secure_X Logo](https://drive.google.com/file/d/1Ho7VYGSSNgIDr5xnApvVEJHgT9QqgqXK/view?usp=drive_link) Secure_X
 **Leading the Charge in Cybersecurity Innovation**
 
 ![GitHub followers](https://img.shields.io/github/followers/Secure-X-comm?style=social)
