@@ -35,4 +35,5 @@ At **Secure_X**, we are dedicated to advancing cybersecurity by developing tools
 ## ⭐ Support Us
 If you find our projects helpful, give us a star 🌟 on GitHub and share our work with your network!
 
-![Footer](https://example.com/footer_image.png)
+
+<img src="https://github.com/Codex-I/Secure-X/blob/main/second.png" alt="secure_x logo" width="25"/>
