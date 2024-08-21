@@ -3,7 +3,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Secure-X-comm?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Secure-X-comm?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Secure-X-comm?style=social)
 
 ## 🛡️ Welcome to Secure_X
 At **Secure_X**, we are dedicated to advancing cybersecurity by developing tools, sharing knowledge, and fostering a community of security experts and enthusiasts. Explore our repositories, contribute to our projects, or join us in our mission to secure the digital world.
