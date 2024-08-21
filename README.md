@@ -1,4 +1,4 @@
-# ![secure_x logo](https://github.com/Codex-I/Secure-X/blob/main/second.png?width=200) Secure_X
+# <img src="https://github.com/Codex-I/Secure-X/blob/main/second.png" alt="secure_x logo" width="200"/> Secure_X
 **Leading the Charge in Cybersecurity Innovation**
 
 ![GitHub followers](https://img.shields.io/github/followers/Secure-X-comm?style=social)
