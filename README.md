@@ -1,13 +1,18 @@
-# <img src="https://github.com/Codex-I/Secure-X/blob/main/second.png" alt="secure_x logo" width="200"/> Secure_X
-**Leading the Charge in Cybersecurity Innovation**
+<p align="center">
+  <img src="https://github.com/Codex-I/Secure-X/blob/main/second.png" alt="secure_x logo" width="200"/>
+</p>
+
+<h1 align="center">Secure_X</h1>
+<p align="center"><strong>Leading the Charge in Cybersecurity Innovation</strong></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/Secure-X-comm?style=social)
+<br />
 ![GitHub stars](https://img.shields.io/github/stars/Secure-X-comm?style=social)
 
 ## 🛡️ Welcome to Secure_X
 At **Secure_X**, we are dedicated to advancing cybersecurity by developing tools, sharing knowledge, and fostering a community of security experts and enthusiasts. Explore our repositories, contribute to our projects, or join us in our mission to secure the digital world.
 
-## 🚀 Projects and Tools
+## 🚀 Top Projects and Tools
 | Project Name | Description | Status |
 | ------------ | ----------- | ------ |
 | [Tool 1](https://github.com/Secure_X/tool1) | A powerful penetration testing framework. | ![Status](https://img.shields.io/badge/status-active-brightgreen) |
@@ -19,7 +24,7 @@ At **Secure_X**, we are dedicated to advancing cybersecurity by developing tools
 - **Security Research:** Cutting-edge research in vulnerabilities, malware, and threat detection.
 
 ## 👥 Join Our Community
-- **Contribute:** Check out our [contribution guidelines](https://github.com/Secure_X/contributing).
+- **Contribute:** Check out our [contribution guidelines](https://github.com/Secure-X-comm/contributing).
 - **Collaborate:** Connect with us on [Slack](https://slack.securex.com) or [Discord](https://discord.securex.com).
 
 ## 📫 Get In Touch
